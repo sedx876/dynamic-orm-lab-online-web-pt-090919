@@ -60,4 +60,3 @@ class InteractiveRecord
   end
 
 end
-end
